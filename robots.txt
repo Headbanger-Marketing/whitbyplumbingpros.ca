@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://whitbyplumbingpros.ca/sitemap-index.xml
